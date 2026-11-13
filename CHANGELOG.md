@@ -12,4 +12,6 @@
 
 ### 新增
 
+- intro/quotation.md、intro/negotiation.md、intro/payment-engineering.md：商务章程三篇（报价、谈判、支付工程）——自 quanttide-bylaw-of-business-entity 的 `business/` 平移
+
 - 仓库初始化：README、CHANGELOG 与许可
